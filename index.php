@@ -25,7 +25,7 @@ function sendToDatabase(){
     
     <button onclick="sendToDatabase()">Send Details!</button>
     
-    echo "Hello World";
+
 
 
 </html>
